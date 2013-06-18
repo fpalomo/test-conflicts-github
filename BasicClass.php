@@ -11,7 +11,7 @@ class BasicClass {
 
 
     public function getTrue(){
-        return true;
+        return false;
     }
 
 }

@@ -11,6 +11,7 @@ class BasicTests extends PHPUnit_Framework_TestCase{
 
         $obj = new BasicClass();
 
+        // this is commited in master
         $this->assertEquals(true,$obj->getTrue());
     }
 
